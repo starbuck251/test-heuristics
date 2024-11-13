@@ -1,4 +1,4 @@
-# 99 essential resources to help software testers
+# [99 essential resources to help software testers](https://www.ministryoftesting.com/articles/99-essential-resources-to-help-software-testers?goal=0_02cca1920b-27c5b78cfa-289562532&mc_cid=27c5b78cfa&mc_eid=741d5e2391)
 Explore 99 must-know resources to elevate your skills and simplify your search for the best tools, methodologies, and insights
 
 
